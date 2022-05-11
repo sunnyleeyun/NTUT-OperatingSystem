@@ -23,6 +23,11 @@ g++ ./ProgrammingProblems/9_26/9_26.c -lpthread -o 9_26
 ./9_26
 ```
 
+### Run Programming Projects
+```
+g++ ./ProgrammingProjects/ch7.c -lpthread -o ch7
+./ch7 100 100 100
+```
 
 
 ## Team Members and Responsibility
